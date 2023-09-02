@@ -1,0 +1,6 @@
+- Community Prediction Competition (Customer Churn Prediction 2020)
+Predict whether a customer will change telco provider
+https://www.kaggle.com/competitions/customer-churn-prediction-2020/
+
+- Telco Customer Churn
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
