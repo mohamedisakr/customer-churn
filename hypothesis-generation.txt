@@ -1,0 +1,95 @@
+Hypothesis generation is about preparing an exhaustive list of questions or possibilities which directly or indirectly affect the problem statement or the target variablw. It is a very important step as it prevents us from going down for a wild goose chase during EDA. It narrows down the process of performing EDA to the most essential aspects.
+
+This step is performed before looking/gathering dataset
+
+To generate hypothesis, we require the following:
+
+Common Sense or Rationality
+Domain knowledge if possible
+Communication with domain experts
+Given below are the hypothesis we will be working with in this EDA
+
+[] On basis of Demographics
+
+Are females less likely to churn than males?
+Are young customers more likely to churn?
+Are customers in the lower income bracket more likely to churn?
+Are customers with dependent(s) less likely to churn?
+Customers with an average family size less than 4 are more likely to churn?
+
+[] On the basis of customer behaviour
+
+Are vintage customers less likely to churn?
+Are customers with higher average balance less likely to churn?
+Are customers dropping monthly balance highly likely to churn?
+Are customers with no transaction is the last 3 months more likely to churn?
+Are customers who have large withdrawal amounts in the last month more likely to churn?
+Are customers who have large withdrawal amounts in the last quarter more likely to churn?
+Customers who have not engaged with the bank in the last quarter are more likely to churn?
+
+----------- 
+
+Hello, this is Bing. I can help you with generating some hypotheses for customer churn prediction based on the dataset you provided. Here are some possible hypotheses:
+
+- Customers who have a longer tenure with the telco provider are less likely to churn than those who have a shorter tenure.
+- Customers who have multiple services (such as phone, internet, online security, etc.) are less likely to churn than those who have only one service.
+- Customers who pay by electronic check are more likely to churn than those who pay by other methods.
+- Customers who have a higher monthly charge are more likely to churn than those who have a lower monthly charge.
+- Customers who have a contract are less likely to churn than those who do not have a contract.
+
+These hypotheses are based on some common factors that may influence customer loyalty and satisfaction. You can test these hypotheses by using statistical methods such as logistic regression, decision trees, or neural networks. You can also use clustering techniques to segment the customers into different groups based on their characteristics and behaviors, and then compare the churn rates among the groups. For example, you can use the ClusPred pipeline² that incorporates both demographics and transaction records to perform customer segmentation and churn prediction.
+
+I hope this helps you with your analysis. If you need more assistance, please let me know. 😊
+
+Source: Conversation with Bing, 9/3/2023
+(1) A Clustering-Prediction Pipeline for Customer Churn Analysis. https://link.springer.com/chapter/10.1007/978-3-030-82153-1_7.
+(2) Customer Churn Analysis and Prediction - AI & Analytics for Business. https://wca.wharton.upenn.edu/wp-content/uploads/2021/03/Presentation-2.pdf.
+(3) Prediction: The future of customer experience | McKinsey. https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/prediction-the-future-of-cx.
+
+
+-----------------------------
+
+Hello, this is Bing. I can help you with generating some hypotheses for customer churn prediction based on the web search results I found.
+
+Customer churn prediction is the task of identifying customers who are likely to stop using a product or service and taking actions to retain them. It is important for many businesses to reduce customer churn and increase customer loyalty. 
+
+Some possible hypotheses for customer churn prediction are:
+
+- Customers who have lower satisfaction scores, lower engagement levels, or lower usage frequency are more likely to churn than customers who have higher scores or levels¹².
+- Customers who have fewer products or services, lower balances, or lower income are more likely to churn than customers who have more products or services, higher balances, or higher income¹².
+- Customers who use alternative or competing products or services, such as Venmo, PayPal, Uber, or Lyft, are more likely to churn than customers who do not use them¹.
+- Customers who have different demographics, such as age, gender, location, or education, may have different churn rates and preferences¹².
+- Customers who have experienced negative events, such as service outages, complaints, or errors, are more likely to churn than customers who have not experienced them²³.
+
+These hypotheses can be tested using data analysis and predictive modeling techniques, such as clustering, dimensionality reduction, Poisson process, or machine learning algorithms¹². The results can be used to segment customers into groups and provide them with personalized recommendations that meet their needs and increase their loyalty¹³.
+
+I hope this helps you with your task. If you need more assistance, please let me know. 😊
+
+Source: Conversation with Bing, 9/3/2023
+(1) Customer Churn Analysis and Prediction - AI & Analytics for Business. https://wca.wharton.upenn.edu/wp-content/uploads/2021/03/Presentation-2.pdf.
+(2) A Clustering-Prediction Pipeline for Customer Churn Analysis. https://link.springer.com/chapter/10.1007/978-3-030-82153-1_7.
+(3) Prediction: The future of customer experience | McKinsey. https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/prediction-the-future-of-cx.
+
+------------------------------
+
+Hello, this is Bing. I can help you with generating some hypotheses for customer churn prediction in the telecom industry. Customer churn is a major problem and one of the most important concerns for large companies, especially in the telecom field, as it directly affects the revenues of the companies ¹. Therefore, finding factors that increase customer churn and developing means to predict potential customers to churn are crucial for reducing this churn and improving customer retention.
+
+Based on the web search results, here are some possible hypotheses for customer churn prediction in the telecom industry:
+
+- **Hypothesis 1**: Customer churn is influenced by the customer's social network, such as the number of friends, the churn rate of friends, and the influence of friends ². By extracting social network analysis features from the customer's call records, such as degree centrality, betweenness centrality, and clustering coefficient, we can improve the accuracy of churn prediction models ².
+- **Hypothesis 2**: Customer churn is related to the customer's usage behavior, such as the number of calls, the duration of calls, the frequency of calls, and the balance of calls ³. By performing feature extraction and processing on the customer's usage data, such as aggregating monthly statistics, creating ratios, and applying principal component analysis, we can reduce the dimensionality of the data and enhance the performance of churn prediction models ³.
+- **Hypothesis 3**: Customer churn is affected by the customer's satisfaction level, such as the quality of service, the price of service, and the loyalty of service ¹. By conducting customer surveys and collecting feedback from customers, we can measure the customer's satisfaction level and identify the reasons for churn ¹.
+
+I hope these hypotheses are helpful for your research. If you need more information, you can check out these web sources:
+
+- [Customer churn prediction in telecom using machine learning in big data platform](^2^)
+- [Research on telecom customer churn prediction based on ensemble learning](^1^)
+- [Integrated Churn Prediction and Customer Segmentation Framework for Telecom Industry](^3^)
+
+Source: Conversation with Bing, 9/3/2023
+(1) Research on telecom customer churn prediction based on ensemble .... https://link.springer.com/article/10.1007/s10844-022-00739-z.
+(2) Customer churn prediction in telecom using machine learning in big data .... https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0191-6.
+(3) Integrated Churn Prediction and Customer Segmentation Framework for .... https://ieeexplore.ieee.org/document/9406002/.
+(4) Customer churn prediction in telecom using machine learning in big data .... https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0191-6.
+(5) Research on telecom customer churn prediction based on ensemble .... https://link.springer.com/article/10.1007/s10844-022-00739-z.
+(6) Integrated Churn Prediction and Customer Segmentation Framework for .... https://ieeexplore.ieee.org/document/9406002/.

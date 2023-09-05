@@ -4,3 +4,27 @@ https://www.kaggle.com/competitions/customer-churn-prediction-2020/
 
 - Telco Customer Churn
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+- EDA 101: Univariate Analysis for Beginners ==> Univariate Analysis: Numerical Variables
+https://www.kaggle.com/code/lonewolf95/eda-101-univariate-analysis-for-beginners
+
+- EDA 102: Bivariate Analysis for Beginners
+https://www.kaggle.com/code/lonewolf95/eda-102-bivariate-analysis-for-beginners?scriptVersionId=34338596
+
+- An Efficient way of performing EDA- Hypothesis Generation
+https://www.analyticsvidhya.com/blog/2020/11/an-efficient-way-of-performing-eda-hypothesis-generation/
+
+- Exploratory Analysis Using Univariate, Bivariate, and Multivariate Analysis Techniques
+https://www.analyticsvidhya.com/blog/2021/04/exploratory-analysis-using-univariate-bivariate-and-multivariate-analysis-techniques/
+
+- 2 Data Exploration
+https://blog.ml.cmu.edu/2020/08/31/2-data-exploration/
+
+- Univariate, Bivariate, and Multivariate Analysis
+https://towardsai.net/p/machine-learning/univariate-bivariate-and-multivariate-analysis
+
+- A Gentle Introduction to Imbalanced Classification
+https://machinelearningmastery.com/what-is-imbalanced-classification/
+
+- Customer Churn Analysis and Prediction
+https://wca.wharton.upenn.edu/wp-content/uploads/2021/03/Presentation-2.pdf
